@@ -1,6 +1,5 @@
 {
 "type": "FeatureCollection",
-"name": "236-240",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "id": "37041", "name": "Chowan", "FIPS": "37041", "Year": "2015", "State": "North Carolina", "FIPS State": "37", "County": "Chowan, NC", "Total Flight Days": "239" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -76.695693, 36.293737 ], [ -76.55877, 36.353984 ], [ -76.410893, 36.07466 ], [ -76.668309, 36.01989 ], [ -76.706647, 36.244445 ], [ -76.695693, 36.293737 ] ] ] } }

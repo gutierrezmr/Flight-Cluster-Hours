@@ -1,7 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "241-245",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4267" } },
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 
 ]

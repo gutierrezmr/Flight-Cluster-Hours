@@ -1,6 +1,5 @@
 {
 "type": "FeatureCollection",
-"name": "230-235",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "id": "37189", "name": "Watauga", "FIPS": "37189", "Year": "2015", "State": "North Carolina", "FIPS State": "37", "County": "Watauga, NC", "Total Flight Days": "230" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -81.734479, 36.392322 ], [ -81.477062, 36.238968 ], [ -81.542786, 36.118475 ], [ -81.685186, 36.123952 ], [ -81.811156, 36.112998 ], [ -81.920695, 36.288261 ], [ -81.734479, 36.392322 ] ] ] } },
