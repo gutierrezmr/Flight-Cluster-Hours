@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "251-255",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "37157", "name": "Rockingham", "FIPS": "37157", "Year": "2015", "State": "North Carolina", "FIPS State": "37", "County": "Rockingham, NC", "Total Flight Days": "252" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -79.965427, 36.5402 ], [ -79.713488, 36.5402 ], [ -79.510841, 36.5402 ], [ -79.532749, 36.249922 ], [ -79.532749, 36.238968 ], [ -80.036627, 36.255399 ], [ -80.025673, 36.5402 ], [ -79.965427, 36.5402 ] ] ] } }
+]
+}
